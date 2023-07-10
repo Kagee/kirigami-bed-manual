@@ -2,7 +2,7 @@
 
 This is the source data repository for a (**not yet finished**) assembly manual for the [Voron V0 Kirigami bed](https://github.com/christophmuellerorg/voron_0_kirigami_bed).
 
-Feel free to [download the latest PRE-RELEASE version of the manual](PRE-RELEASE%202023-07-10%20Kirigami%20Assembly%20Manual.pdf). All feedback is appreciated.
+Feel free to [download the latest PRE-RELEASE version of the manual](PRE-RELEASE%20Kirigami%20Assembly%20Manual.pdf). All feedback is appreciated.
 
 ## Manual source code
 The manual itself if created using Google Slides. 
