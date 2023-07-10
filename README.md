@@ -9,4 +9,4 @@ This is the source data repository for a (not yet finished) assembly manual for 
 * Google Slides (yes, really) - [Link (Google Slides Template)](https://docs.google.com/presentation/d/1pmqJNl_5oPr7llVEg32YjIzOz8KS_hGxE1-wYMvLugQ/edit#slide=id.p)
 
 # CADs
-See [README.md](CAD/CAD README.md) in CAD subfolder
+See [README.md](CAD/README.md)  in CAD subfolder
