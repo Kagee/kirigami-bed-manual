@@ -2,6 +2,8 @@
 
 The CAD file ([Autodesk Fusion 360 *.f3d](Kirigami%20complete%20CAD.f3d)/[Standardized STEP format *.step](Kirigami%20complete%20CAD.step)) is an assembly of multiple models/CADs.
 
+![](../Images/kirigami-rotate.webp)|
+
 All parts are licenced under GPL3 by their respective authors.
 
 
