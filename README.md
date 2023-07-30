@@ -8,9 +8,9 @@ This is the source data repository for a (**not yet finished**) assembly manual 
 Feel free to [download the latest PRE-RELEASE version of the manual](PRE-RELEASE%20Kirigami%20Assembly%20Manual.pdf). All feedback is appreciated.
 
 ## Manual source code
-The manual itself if created using Google Slides. 
+The manual itself is created using Google Slides. 
 There is thus no source code version of the manual in this repository. 
-For the current time, contact me to get read/write access to the source slides.
+For now, contact me to get read/write access to the source slides.
 
 ## CAD
 The manual makes extensive use of of Fusion 360 renders from a "Kirigami complete CAD". It is avaliable in the subfolder [CAD](CAD).
